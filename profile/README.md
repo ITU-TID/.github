@@ -2,7 +2,7 @@
 
 ## Week 1 - Welcome
 - Technical Interaction Design
-- The Basics of CSS
+- Exercises Session: The Basics of CSS
 
 ## Week 2 - Understanding Users
 
