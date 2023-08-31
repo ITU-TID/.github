@@ -4,4 +4,4 @@
 - Welcome
 - Course Organization
 - Technical Interaction Design
-- Tech Top-Up: An Overview
+- Exercises: The Basics of CSS
