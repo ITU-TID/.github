@@ -6,7 +6,6 @@
 - [1.a Technical Interaction Design](Lectures/1.a%20Technical%20Interaction%20Design.md)
 - [1.b Exercises - Basics of CSS](Lectures/1.b%20Exercises%20-%20Basics%20of%20CSS.md)
 
-
 ## Week 2 - Understanding Users
 
 ## Week 3 - Prototyping
