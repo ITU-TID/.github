@@ -1,13 +1,15 @@
 # Literature
+- Texbooks for ID -- too theoretical
+- Technical books -- too obsolete
+- Sometimes we will point you to online articles that we think are the best
 - Lecture notes will be always published in this repo; slides on LearnIt
-- for the Javascript guide you to the online articles that we think are the best
-- for the ID parts - the lecture notes complemented by article references
-- for the React there will be the lecture notes complemented by online articles
+- If you see opportunities for improving the lecture notes - send a PR 🙏
+
 # Code
-- Project code should be hosted on GitHub (the public one, not the ITU internal)
-- Every team creates a repository and shares it with us 
-- The main branch should be protected from merge without a review by us
+- Project code should be hosted on GitHub (the public one, not the ITU internal) in the ITU-TID organization
+- The main branch should be protected from merge without a review by the TID staff
 - The actual work is done on feature branches
+
 # Communication
 - If a question is of general interest, write to the LearnIt forum
 - For personal stuff reach Mircea, Cecil, or Iga
