@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "profile/README.md",
+                "file": "Project Themes.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "profile/README.md",
+                "file": "Project Themes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "profile/README.md",
+                "file": "Project Themes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "profile/README.md"
+                "file": "Project Themes.md"
               }
             }
           }
@@ -193,8 +193,8 @@
   },
   "active": "a21f71850aa90304",
   "lastOpenFiles": [
-    "Project Themes.md",
     "profile/README.md",
+    "Project Themes.md",
     "Course Rules.md",
     "Lectures/1.b Exercises - Basics of CSS.md",
     "Lectures/1.a Technical Interaction Design.md",
