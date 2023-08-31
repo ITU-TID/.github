@@ -1,7 +1,11 @@
 # The TID Course @ ITU - The 2023 Fall Edition
 
-## Week 1
+## Week 1 - Welcome
 - Welcome
 - Course Organization
 - Technical Interaction Design
 - Exercises: The Basics of CSS
+
+## Week 2 - Understanding Users
+
+## Week 3 - ...
