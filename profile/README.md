@@ -4,7 +4,7 @@
 - [Project Themes](Project-Themes.md)
 ## Week 1 - Welcome
 - [1.a Technical Interaction Design](Lectures/1.a%20Technical%20Interaction%20Design.md)
-- [1.b Exercises - Basics of CSS](../Tech-TopUps/1.b%20Exercises%20-%20Basics%20of%20CSS.md)
+- [1.b Exercises - Basics of CSS](Tech-TopUps/1.b%20Exercises%20-%20Basics%20of%20CSS.md)
 
 ## Week 2 - Understanding Users
 - [2.b DOM manipulation with Javascript](../Tech-TopUps/2.b%20DOM%20manipulation%20with%20Javascript.md)
