@@ -7,7 +7,8 @@
 - [1.b Exercises - Basics of CSS](Lectures/1.b%20Exercises%20-%20Basics%20of%20CSS.md)
 
 ## Week 2 - Understanding Users
-[2.b DOM manipulation with Javascript](../Lectures/2.b%20DOM%20manipulation%20with%20Javascript.md)
+- 
+- [2.b DOM manipulation with Javascript](../Lectures/2.b%20DOM%20manipulation%20with%20Javascript.md)
 
 ## Week 3 - Prototyping
 
