@@ -1,6 +1,6 @@
 
 # 1.a Technical Interaction Design[^online]
-[^online]: Latest version of this document at https://github.com/itu-tid/
+[^online]: https://github.com/itu-tid/.github/blob/main/Lectures/1-Technical-Interaction-Design.pdf is the latest version of this document. 
 
 
 _**“I saw the angel in the stone and I carved until I set it free.”**_ **– Michelangelo (1475 – 1564)**

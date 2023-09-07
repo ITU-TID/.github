@@ -3,7 +3,7 @@
 - [Course Rules](Course%20Rules.md)
 - [Project Themes](Project-Themes.md)
 ## Week 1 - Welcome
-- [1.a Technical Interaction Design](Lectures/1.a%20Technical%20Interaction%20Design.md)
+- [1-Technical-Interaction-Design](../Lectures/1-Technical-Interaction-Design.md)
 - Tech Top-Up: [Basics of CSS](Tech-TopUps/1.b%20Exercises%20-%20Basics%20of%20CSS.md)
 
 ## Week 2 - Understanding Users
