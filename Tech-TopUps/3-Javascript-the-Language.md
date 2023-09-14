@@ -84,7 +84,7 @@ const generatePrompt = (history) => {
 
 ## Functions
 
-Read up [on Functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions)
+To know:
 * How to declare a function? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions))
 * How to declare a function expression? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_expressions))
 * What is the difference between a named function expression and an unnamed function expression?
