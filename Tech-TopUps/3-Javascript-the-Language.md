@@ -22,9 +22,16 @@ Look at the following code, from a [tutorial](https://replicate.com/blog/how-to-
 
 ```javascript
 
-const generatePrompt = (messages) => {
+const messageHistory = [...messages];
+
+messageHistory.push({
+  text: userMessage,
+  isUser: true,
+});
+
+const generatePrompt = (history) => {
       return messages
-        .map((message) =>
+        .map((history) =>
           message.isUser
             ? `[INST] ${message.text} [/INST]`
             : `${message.text}`
@@ -87,6 +94,12 @@ Read up
 ## Arrays
 - [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
 - [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) 
-
-
-
+- Mutable treatment of arrays (changing an existing object)
+		- [push](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) - adding at the end
+		- [pop](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/pop) - removes from the end
+		- [splice](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/splice) - changes contents starting with given index
+- [Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) , e.g.`[...artists]`
+	- Immutable treatment of arrays (creating a new object)
+		- Adding an element to an array with the spread operator: `[...artists, {id:"mich", name: "Michelangelo"}]`. 
+		- Removing an element from an array: `artists.filter(a => a.id !== "mich")`
+	
