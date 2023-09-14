@@ -10,6 +10,7 @@
 - Tech Top-Up: [DOM manipulation with Javascript](Tech-TopUps/2-DOM-Manipulation-with-Javascript.md)
 
 ## Week 3 - Prototyping
+- Tech Top-Up: [Javascript - The Language](Tech-TopUps/3-Javascript-the-Language.md)
 
 ## Week 4 - Visual Design
 

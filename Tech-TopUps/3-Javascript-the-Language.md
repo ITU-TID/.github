@@ -56,7 +56,7 @@ const generatePrompt = (messages) => {
 		- How to define an Object literal? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#array_literals))
 		- What are *template literals* and when do you use them? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#string_literals))
 
-- **Loops and Iterations**
+- ## Loops and Iterations
 	- [for statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
 	- [while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
 	- [for...in...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...int)
@@ -68,7 +68,7 @@ const generatePrompt = (messages) => {
 		- how do you iterate over the values in a Map? 
 	- [discussion](https://stackoverflow.com/a/29286412/1200070) on SO on the difference between `for ... in` and `for ... of`
 
-- **Expressions and Operators**
+- ## Expressions and Operators
 	- [Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#comparison_operators) - must read
 		- Why is there a need for a strict equality ([`===`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)) and a strict inequality operator ([`!==`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality))? 
 	- [Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#logical_operators)
@@ -87,12 +87,6 @@ Read up
 ## Arrays
 - [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
 - [filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) 
-- [Spread Syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax) , e.g.`[...artists]`
-	- Immutable treatment of arrays
-		- adding an element to an array with the spread operator: `[...artists, {id:"mich", name: "Michelangelo"}]`. Does it create a new array or not? 
-		- removing an element from an array: `artists.filter(a => a.id !== "mich")`. Does it create a new array or not? 
-	- mutable treatment of arrays
-		- push, pop
-		- ...
+
 
 
