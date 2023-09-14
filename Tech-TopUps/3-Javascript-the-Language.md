@@ -63,23 +63,23 @@ const generatePrompt = (history) => {
 		- How to define an Object literal? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#array_literals))
 		- What are *template literals* and when do you use them? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#string_literals))
 
-- ## Loops and Iterations
-	- [for statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
-	- [while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
-	- [for...in...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...int)
-		- does this iterate over the keys or the values of an object? 
-		- why is this not appropriate for arrays?
-		- what is the right way to iterate over an array? 
-	- [for ... of ...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
-		- does this iterate over the keys of an object or the values of an iterable? 
-		- how do you iterate over the values in a Map? 
-	- [discussion](https://stackoverflow.com/a/29286412/1200070) on SO on the difference between `for ... in` and `for ... of`
+## Loops and Iterations
+- [for statement](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for)
+- [while](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/while)
+- [for...in...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...int)
+	- does this iterate over the keys or the values of an object? 
+	- why is this not appropriate for arrays?
+	- what is the right way to iterate over an array? 
+- [for ... of ...](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of)
+	- does this iterate over the keys of an object or the values of an iterable? 
+	- how do you iterate over the values in a Map? 
+- [discussion](https://stackoverflow.com/a/29286412/1200070) on SO on the difference between `for ... in` and `for ... of`
 
-- ## Expressions and Operators
-	- [Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#comparison_operators) - must read
-		- Why is there a need for a strict equality ([`===`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)) and a strict inequality operator ([`!==`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality))? 
-	- [Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#logical_operators)
-	- [Ternary Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#conditional_ternary_operator)
+## Expressions and Operators
+- [Comparison Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#comparison_operators) - must read
+	- Why is there a need for a strict equality ([`===`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_equality)) and a strict inequality operator ([`!==`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Strict_inequality))? 
+- [Logical Operators](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#logical_operators)
+- [Ternary Operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_operators#conditional_ternary_operator)
 
 
 ## Functions
