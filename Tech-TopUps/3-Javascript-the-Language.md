@@ -43,12 +43,12 @@ const generatePrompt = (history) => {
 
 ## Language Basics
 
-- Read the [Language Basics](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#basics) article and make sure that you can answer the following questions: 
+- Read the [Language Basics](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#basics) article and make sure that yo u can answer the following questions: 
 	- **Basics**
 		- Is JS case sensitive? Can you use unicode in identifier names? What about string values? 
 	- **Declarations**
 		- What's a global and what's a local variable? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#variable_scope))
-		- What is the difference between `var`, `let`, and `const`? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations) [also](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block))
+		- **What is the difference between `var`, `let`, and `const`? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Grammar_and_types#declarations) [also](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/block))**
 		- What is block scope? What other scopes are there? 
 		- How do you define a variable global to a file?
 		- How do you define a variable that is only visible within a function scope? 
