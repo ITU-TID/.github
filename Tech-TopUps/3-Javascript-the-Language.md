@@ -85,11 +85,11 @@ const generatePrompt = (history) => {
 ## Functions
 
 Read up 
-	* How to declare a function? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions))
-	* How to declare a function expression? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_expressions))
-	* What is the difference between a named function expression and an unnamed function expression?
-	* Can variables inside of a function be accessed outside of it? What about those outside of the function, can they be accessed inside it? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_scope))
-	- What is an arrow function? ([Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions))
+* How to declare a function? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions))
+* How to declare a function expression? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_expressions))
+* What is the difference between a named function expression and an unnamed function expression?
+* Can variables inside of a function be accessed outside of it? What about those outside of the function, can they be accessed inside it? ([see](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Functions#function_scope))
+- What is an arrow function? ([Arrow Function Expressions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions))
 
 ## Arrays
 - [map](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map) 
