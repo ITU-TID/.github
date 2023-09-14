@@ -15,7 +15,7 @@ let printOnlyTitle = function (song) {
     console.log(song.title);
 }
 
-let printOnlyTitleForver = function onlyTitle(song) {
+let printOnlyTitleForever = function onlyTitle(song) {
     console.log(song.title);
     onlyTitle(song);
 }
@@ -38,3 +38,10 @@ function longSongs(listOfSongs, minimum_duration) {
 
 let long_songs = longSongs(good_songs, 300)
 printSongsNicely(long_songs)
+
+/*
+Stuff that you should try at home:
+- create a function that converts the list of songs to use "duration" as a key instead of "seconds"
+- create a function that adds a new song at the end of the existing list
+- create a function that adds a new song, but returns a different list
+ */
