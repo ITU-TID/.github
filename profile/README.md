@@ -9,13 +9,14 @@
 ## Week 2 - Understanding Users
 - Tech Top-Up: [DOM manipulation with Javascript](Tech-TopUps/2-DOM-Manipulation-with-Javascript.md)
 
-## Week 3 - Prototyping
+## Week 3 - Structure and Skeleton - Diagramming & Wireframing
 - Tech Top-Up: [Javascript - The Language](Tech-TopUps/3-Javascript-the-Language.md)
 
-## Week 4 - Visual Design
+## Week 4 - Surface: Visual Design and User Interface
 
-## Week 5 - React 
+## Week 5 - Systems Design - Focus on Design Systems
 
 ## Week 6 - Usability 
 
+## Week 7 - Intro to React
 
