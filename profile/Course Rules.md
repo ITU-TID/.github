@@ -12,7 +12,8 @@
 
 # Communication
 - If a question is of general interest, write to the LearnIt forum
-- For personal stuff reach Mircea, Cecil, or Iga
+- For personal stuff reach Mircea, Cecil, Iga, or Tobias
+
 # Group Formation
 - Project work is done in groups of 4 students
 - In the first course hour we hold a democratic vote whether to randomly form groups or to self-organize
@@ -21,6 +22,7 @@
 		- Have till next Wednesday@noon to figure out whom they want to work with
 		- You can use LearnIt to find group members
 		- Whomever is still not in a group is randomly assigned
+
 # Deliverables
 - Are due on Wednesday@noon
 - You can submit also later, but you will not receive feedback
