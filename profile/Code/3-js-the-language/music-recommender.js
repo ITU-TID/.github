@@ -32,7 +32,9 @@ function printSongsNicely(list_of_songs) {
 }
 
 function longSongs(listOfSongs, minimum_duration) {
-    let result = listOfSongs.filter(song => song.seconds > minimum_duration);
+    let result = listOfSongs.filter(function (song) {
+        return song.seconds > minimum_duration
+    });
     return result;
 }
 

@@ -3,7 +3,7 @@
 - [Course Rules](Course%20Rules.md)
 - [Project Themes](Project-Themes.md)
 ## Week 1 - Welcome
-- [1-Technical-Interaction-Design](../Lectures/1-Technical-Interaction-Design.md)
+- [1-Technical-Interaction-Design](Lectures/1-Technical-Interaction-Design.md)
 - Tech Top-Up: [Basics of CSS](Tech-TopUps/1-Basics-of-CSS.md)
 
 ## Week 2 - Understanding Users
@@ -16,7 +16,7 @@
 
 
 ## Week 5 - Usability Its Evaluation
-- [5-Usability-and-Its-Evaluation](../Lectures/5-Usability-and-Its-Evaluation.md)
+- [5-Usability-and-Its-Evaluation](Lectures/5-Usability-and-Its-Evaluation.md)
 
 ## Week 6 - Visual Design & Design Systems
 

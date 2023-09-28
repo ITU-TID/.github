@@ -107,7 +107,7 @@ These technologies are useful for almost any web development project and also fo
 # Project Work
 
 - Form teams 
-- Choose your project theme:  [Project-Themes](Project-Themes.md)
+- Choose your project theme:  [Project-Themes](../Project-Themes.md)
 - Think about a special kind of user for which you want to target the application for
 	- Be smart. You should have access to discuss with this kind of user 
 		1. before designing, to understand requirements, but also 

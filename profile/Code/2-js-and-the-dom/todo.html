@@ -7,6 +7,11 @@ To think about / tinker with:
 - can you prevent an item being added if it's empty?
 - can you make an item be strikethrough if clicked? (e.g., done)
 - can you prevent an item being added if it's already in the list?
+
+To do:
+- add an item counter
+- add a delete button
+- add a deleted items counter
 -->
 
 <head>
@@ -16,7 +21,8 @@ To think about / tinker with:
     <script>
 
         function addButtonClick(e) {
-            let newTaskText = document.getElementById("newTaskInput").value;
+            let newTaskInputElement = document.getElementById("newTaskInput");
+            let newTaskText = newTaskInputElement.value;
             let listElement = document.getElementById("todoList");
 
             let newListItem = document.createElement("li");
@@ -28,6 +34,13 @@ To think about / tinker with:
         }
 
         function pageIsCompletelyLoaded() {
+
+
+
+
+
+
+
             document.getElementById("addButton").addEventListener("click", addButtonClick);
         }
 
