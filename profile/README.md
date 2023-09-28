@@ -12,11 +12,13 @@
 ## Week 3 - Structure and Skeleton - Diagramming & Wireframing
 - Tech Top-Up: [Javascript - The Language](Tech-TopUps/3-Javascript-the-Language.md)
 
-## Week 4 - Surface: Visual Design and User Interface
+## Week 4 - Feedback on Wireframing
 
-## Week 5 - Systems Design - Focus on Design Systems
 
-## Week 6 - Usability 
+## Week 5 - Usability Its Evaluation
+- [5-Usability-and-Its-Evaluation](../Lectures/5-Usability-and-Its-Evaluation.md)
 
-## Week 7 - Intro to React
+## Week 6 - Visual Design & Design Systems
+
+## Week 7 - Introduction to React
 
